@@ -29,7 +29,7 @@
     "isomorphic-core": "0.x.x",
     "jasmine": "2.5.3",
     "joi": "8.4.2",
-    "js-base64": "2.1.9",
+    "js-base64": "2.6.4",
     "libhoney": "1.0.0-beta.2",
     "moment": "2.x.x",
     "moment-round": "1.x.x",
